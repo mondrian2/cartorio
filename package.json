@@ -3,7 +3,7 @@
   "description": "",
   "version": "0.0.0",
   "homepage": "",
-  "main": "app.js",
+  "main": "src",
   "keywords": [
     "feathers"
   ],
